@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+h1{
+   background-color: rgb(208, 221, 228);
+   border-radius: 25px ;
+   height: 40px;
+   width: 100%;
+}
+
+li{
+   background-color: rgb(208, 221, 228);
+   border-color: rgb(208, 221, 228);
+   height: 80px;
+   width: 80%;
+}
+sour{
+  background-color:rgb(208, 221, 228) ;
+
+
+}
+hr{
+  background-color: rgb(208, 221, 228) ;
+}
